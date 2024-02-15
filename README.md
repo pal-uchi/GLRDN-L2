@@ -2,7 +2,7 @@
 Graph Laplacian Regularization based on Differences of Neighboring Pixels
 
 ## Introduction
-This method is the regularization method that improves the mask quality of the boundary part in instance segmentation.
+This method is the regularization method that improves the mask quality of the boundary reagion in instance segmentation.
 The proposed regularization encourages the network to learn the pixel structure using the difference between neighboring pixels.
 The details for the GLRDN-L2 can be found in [Paper for ICPR2022](https://ieeexplore.ieee.org/abstract/document/9956326).
 
